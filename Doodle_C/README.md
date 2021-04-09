@@ -1,5 +1,9 @@
 # Doodle_C
 
+* [c15_ex1.cpp](./c15_ex1.cpp) "15강. 반복하기"
+* [c15_ex2.cpp](./c15_ex2.cpp) "15강. 반복하기"
+* [c15_ex3.cpp](./c15_ex3.cpp) "15강. 반복하기"
+* [c15_ex4.cpp](./c15_ex4.cpp) "15강. 반복하기"
 * [c1_ex1.cpp](./c1_ex1.cpp) "1강. Hello, World!"
 * [c3_ex1.cpp](./c3_ex1.cpp) "3강. printf로 다양한 데이터 출력하기"
 * [c4_ex1.cpp](./c4_ex1.cpp) "4강. 변수란?"
@@ -27,7 +31,3 @@
 * [c13_ex1.cpp](./c13_ex1.cpp) "13강. if문 잘쓰기"
 * [c14_ex1.cpp](./c14_ex1.cpp) "14강. switch와 goto문"
 * [c14_ex2.cpp](./c14_ex2.cpp) "14강. switch와 goto문"
-* [c15_ex1.cpp](./c15_ex1.cpp) "15강. 반복하기"
-* [c15_ex2.cpp](./c15_ex2.cpp) "15강. 반복하기"
-* [c15_ex3.cpp](./c15_ex3.cpp) "15강. 반복하기"
-* [c15_ex4.cpp](./c15_ex4.cpp) "15강. 반복하기"
